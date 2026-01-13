@@ -10,7 +10,17 @@ typically introduced by skip-sampling. Specifically, during the training phase, 
 <p align="center">
   <img src="images/architecture.png" alt="Illustration of the training and sampling pipeline of PWD." width="800">
   <br>
-  <em>Figure 3: Illustration of the training and sampling pipeline of PWD.</em>
+  <em>Figure 1: Illustration of the training and sampling pipeline of PWD.</em>
+</p>
+<p align="center">
+  <img src="images/comparison of different data fidelity strategies.png" alt="The comparison of different data fidelity strategies." width="800">
+  <br>
+  <em>Figure 2:The comparison of different data fidelity strategies. (a) shows projection-domain replacement-based fidelity, (b) depicts iterative algorithmbased data fidelity, (c) illustrates the data fidelity approach adopted by PWD..</em>
+</p>
+<p align="center">
+  <img src="images/WTConv.png" alt="The processing procedure of WTConv." width="800">
+  <br>
+  <em>Figure 3:The processing procedure of WTConv. WTConv enables the model to capture both global structures and high-frequency details during the decoding process, theeby enhancing the quality of image.</em>
 </p>
 
 
